@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EL MAHFOUD RADOUANE , Data Engineer Student
-- 👀 I’m interested in python,especially in Data Science,Machine Learning...
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m @EL MAHFOUD RADOUANE , Data Engineer/Science Student
+- 👀 I’m interested in python,especially in Data Science: Machine Learning,Deep learning and Data Engineering
+- 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 aquam503/aquam503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
