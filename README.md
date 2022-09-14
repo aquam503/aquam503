@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EL MAHFOUD RADOUANE , Data Engineer/Science Student
-- 👀 I’m interested in python,especially in Data Science: Machine Learning,Deep learning and Data Engineering
+- 👀 I’m interested in python,especially in Data Science: Machine Learning,Deep learning,NLP and Data Engineering
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
