@@ -9,7 +9,7 @@ aquam503/aquam503 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/<Python>-<+>-<brightgreen>
 
 
 Thanks for checking out my profile!
