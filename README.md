@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aquam503.aquam503)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=aquam503.YOUR_REPOSITORY_NAME)
+
 
  
 
