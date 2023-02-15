@@ -9,7 +9,7 @@ aquam503/aquam503 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY_NAME)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY_NAME)--->
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aquam503.aquam503)
 
