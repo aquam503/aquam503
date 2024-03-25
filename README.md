@@ -7,7 +7,7 @@ Je suis Data Scientist et Data Engineer passionné par Python et ses application
 
 - 🌱 Actuellement plongé dans l'univers de la Data Science et de l'Ingénierie des Données.
 - 💼 Ouvert aux opportunités d'emploi passionnantes et aux collaborations.
-- 📫 Contactez-moi sur [LinkedIn](votre_profil_linkedin)!
+- 📫 Contactez-moi sur [LinkedIn]([votre_profil_linkedin](https://www.linkedin.com/in/radouane-el-mahfoud-493684232/))!
 
 
 <!-- GitHub Stats -->
