@@ -23,6 +23,9 @@ Je suis Data Scientist et Data Engineer passionné par Python et ses application
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" height="30">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="30">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="30">
+  <img src="https://media.giphy.com/media/5mCQOcUfywmyT8e7vO/giphy.gif" height="30">
+  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" height="30">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="30">
 </p>
 
 <!-- GitHub Stats -->
