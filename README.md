@@ -21,6 +21,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 #### Frameworks & Bibliothèques :
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?logo=pytorch&logoColor=white&style=flat)
 ![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD33D?logo=huggingface&logoColor=black&style=flat)
