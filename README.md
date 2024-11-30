@@ -1,5 +1,5 @@
 <!-- Introduction -->
-### Salut, je suis RADOUANE EL MAHFOUD! 👋
+### Salut, je suis RADOUANE EL MAHFOUD!  👋
 
 Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par l'exploitation des données pour résoudre des problèmes complexes. Mes domaines de prédilection incluent **Python**, la **Data Science**, le **Machine Learning**, le **Deep Learning**, le **Big Data** et les systèmes distribués comme **Apache Spark** et **Hadoop**.
 
