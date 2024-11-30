@@ -4,7 +4,7 @@
 Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par l'exploitation des données pour résoudre des problèmes complexes. Mes domaines de prédilection incluent **Python**, la **Data Science**, le **Machine Learning**, le **Deep Learning**, le **Big Data** et les systèmes distribués comme **Apache Spark** et **Hadoop**.
 
 - 🌱 Toujours en quête de nouvelles connaissances dans les domaines **Data Science** , **Data Engineering** , **MLOps** .
-- 📝 Consultez mes articles sur [[Medium]([[RADOUANE EL MAHFOUD](https://medium.com/@elmahfoudradwane)](https://medium.com/@elmahfoudradwane)]!.
+- 📝 Consultez mes articles sur [[Medium]([[RADOUANE EL MAHFOUD](https://medium.com/@elmahfoudradwane)]!.
 - 📫 Retrouvez-moi sur [[LinkedIn](RADOUANE EL MAHFOUD](https://www.linkedin.com/in/radouane-el-mahfoud-493684232/))]!.
 
 ---
