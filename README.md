@@ -5,7 +5,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 - 🌱 Toujours en quête de nouvelles connaissances dans les domaines **Data Science** , **Data Engineering** , **MLOps** .
 - 📝 Consultez mes articles sur [[Medium]([[https://medium.com/@elmahfoudradwane](https://medium.com/@elmahfoudradwane)]!.
-- 📫 Retrouvez-moi sur [[LinkedIn]([[https://medium.com/@elmahfoudradwane](https://www.linkedin.com/in/radouane-el-mahfoud-493684232/)]!.
+- 📫 Retrouvez-moi sur [[LinkedIn]([[https://www.linkedin.com/in/radouane-el-mahfoud-493684232/](https://www.linkedin.com/in/radouane-el-mahfoud-493684232/)]!.
 
 ---
 
