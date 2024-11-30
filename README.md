@@ -64,5 +64,5 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="GIF cool" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="70%" alt="AI and Data Science GIF" />
 </p>
