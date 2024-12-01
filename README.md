@@ -19,6 +19,12 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,docker,c,scala,sql" />
+  </a>
+</p>
+
 #### Frameworks & Bibliothèques :
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?logo=pytorch&logoColor=white&style=flat)
