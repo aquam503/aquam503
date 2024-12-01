@@ -13,11 +13,6 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ### 🚀 Compétences techniques
 
 #### Langages :
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=normal)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,9 +43,9 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 #### MLOps et Pipelines :
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D" alt="MLflow" width="70" style="display:inline-block; margin-right:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="70" style="display:inline-block; margin-right:10px"/>
-  <img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="70" style="display:inline-block; margin-right:10px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D" alt="MLflow" width="80" style="display:inline-block; margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="80" style="display:inline-block; margin-right:10px"/>
+  <img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="80" style="display:inline-block; margin-right:10px"/>
   <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50" style="display:inline-block"/>
 </p>
 
