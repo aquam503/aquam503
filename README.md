@@ -71,7 +71,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-    <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
+    <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="80" />
   </a>
 </p>
 
