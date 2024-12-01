@@ -39,10 +39,12 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
 
 #### Bases de données :
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![HBase](https://img.shields.io/badge/-HBase-66CCFF?logo=apachehadoop&logoColor=white&style=flat)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  </a>
+</p>
 
 #### MLOps et Pipelines :
 <p align="center">
