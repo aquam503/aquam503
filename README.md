@@ -40,7 +40,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 #### MLOps et Pipelines :
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
-<img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="DVC" width="50"/>
+<img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="DVC" width="70"/>
 <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50"/>
 
 #### Outils supplémentaires :
