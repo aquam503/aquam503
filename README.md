@@ -74,6 +74,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
     <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
     <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" />
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" />
+    <img src="https://skillicons.dev/icons?i=githubactions" width="50" />
     <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="50" />
   </a>
 </p>
