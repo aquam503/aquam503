@@ -54,6 +54,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="80" style="display:inline-block; margin-right:10px"/>
   <img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="80" style="display:inline-block; margin-right:10px"/>
   <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50" style="display:inline-block"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI&CD" width="50" style="display:inline-block"/>
 </p>
 
 
