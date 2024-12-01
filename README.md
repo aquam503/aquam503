@@ -35,6 +35,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" width="50" style="display:inline-block"/>
+
 #### Bases de données :
 
 <p align="center">
