@@ -33,8 +33,10 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=flat)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
 
-<img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" width="50" style="display:inline-block"/>
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" width="50" style="display:inline-block"/>
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" width="50" style="display:inline-block"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" width="50" style="display:inline-block"/>
+</p>
 
 #### Bases de données :
 
