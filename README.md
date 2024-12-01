@@ -38,10 +38,13 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![HBase](https://img.shields.io/badge/-HBase-66CCFF?logo=apachehadoop&logoColor=white&style=flat)
 
 #### MLOps et Pipelines :
-<img src="https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D" alt="MLflow" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="70"/>
-<img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="70"/>
-<img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D" alt="MLflow" width="70" style="display:inline-block; margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="70" style="display:inline-block; margin-right:10px"/>
+  <img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="70" style="display:inline-block; margin-right:10px"/>
+  <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50" style="display:inline-block"/>
+</p>
+
 
 #### Outils supplémentaires :
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
