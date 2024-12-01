@@ -21,7 +21,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,docker,c,scala,sql" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,scala,sql" />
   </a>
 </p>
 
