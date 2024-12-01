@@ -41,6 +41,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![DVC](https://dvc.org/img/dvc_icon-color--square_vector.svg)
 
 #### Outils supplémentaires :
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
