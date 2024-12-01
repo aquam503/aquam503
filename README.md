@@ -38,9 +38,9 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![HBase](https://img.shields.io/badge/-HBase-66CCFF?logo=apachehadoop&logoColor=white&style=flat)
 
 #### MLOps et Pipelines :
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
-<img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="DVC" width="70"/>
+<img src="https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D" alt="MLflow" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" alt="Airflow" width="70"/>
+<img src="https://cloudnium.net/wp-content/uploads/2024/05/Docker-Logo-2013.png" alt="Docker" width="70"/>
 <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC" width="50"/>
 
 #### Outils supplémentaires :
