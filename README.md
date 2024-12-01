@@ -33,6 +33,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=flat)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
 
+![Hadoop](https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573)
 #### Bases de données :
 
 <p align="center">
