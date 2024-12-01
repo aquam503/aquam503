@@ -57,12 +57,21 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 </p>
 
 
-#### Outils supplémentaires :
 
+#### Cloud :
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
+
+#### Outils supplémentaires :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+    <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
   </a>
 </p>
 
