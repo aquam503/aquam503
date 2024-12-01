@@ -32,11 +32,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD33D?logo=huggingface&logoColor=black&style=flat)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=TensorFlow,PyTorch,scikit-learn,OpenCV" />
-  </a>
-</p>
+
 
 #### Big Data & Systèmes distribués :
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
@@ -64,6 +60,12 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D7?logo=microsoft-azure&logoColor=white&style=flat)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,aws,gcp,azure" />
+  </a>
+</p>
 
 ---
 
