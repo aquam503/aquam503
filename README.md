@@ -24,7 +24,7 @@ Je suis **Data Scientist**, **ML Engineer** et **Data Engineer**, passionné par
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,flask,django" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,flask,django,fastapi	" />
   </a>
 </p>
 
